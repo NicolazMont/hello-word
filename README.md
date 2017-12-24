@@ -1,4 +1,4 @@
 # hello-word
 My first repository
 
-I'm just doing the things the tutorial had indicate to me.
+I want to learn how to code, so I can make some amazing things in the future.
